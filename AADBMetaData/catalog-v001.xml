@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/ClusterStructure.owl" uri="file:/home/xhu/github/aadbonto/ClusterStructureOnto/CSO.owl"/>
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/ClusterProperty.owl" uri="file:/home/xhu/github/aadbonto/ClusterPropertyOnto/CPO.owl"/>
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/ForceField.owl" uri="file:/home/xhu/github/aadbonto/ForceFieldOnto/FFO.owl"/>
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/Charmm.owl" uri="file:/home/xhu/github/aadbonto/CharmmOnto/Charmm.owl"/>
+    <uri id="User Entered Import Resolution" name="http://www.semanticweb.org/amino-acid.owl" uri="file:/home/xhu/github/aadbonto/AminoAcid/amino_acid.owl"/>
+    <uri id="User Entered Import Resolution" name="http://www.semanticweb.org/ClusterStructure.owl" uri="file:/home/xhu/github/aadbonto/ClusterStructureOnto/ClusterStructure.owl"/>
+    <uri id="User Entered Import Resolution" name="http://www.semanticweb.org/ClusterProperty.owl" uri="file:/home/xhu/github/aadbonto/ClusterPropertyOnto/ClusterProperty.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1611496826207" name="http://www.semanticweb.org/AADBOnto.owl" uri="AAMI.owl"/>
+    </group>
+</catalog>

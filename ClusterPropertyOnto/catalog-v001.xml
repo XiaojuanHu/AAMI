@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/ClusterStructure.owl" uri="file:/home/xhu/github/aadbonto/ClusterStructureOnto/CSO.owl"/>
+    <uri id="User Entered Import Resolution" name="http://www.semanticweb.org/amino-acid.owl" uri="file:/home/xhu/github/aadbonto/AminoAcid/amino_acid.owl"/>
+    <uri id="User Entered Import Resolution" name="http://www.semanticweb.org/ClusterStructure.owl" uri="file:/home/xhu/github/aadbonto/ClusterStructureOnto/ClusterStructure.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1610793716916" name="http://www.semanticweb.org/ClusterProperty.owl" uri="CPO.owl"/>
+    </group>
+</catalog>
